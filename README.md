@@ -4,6 +4,8 @@
 
 **View this demo site**: https://example-hello-world-function.netlify.app/
 
+**[Doc](https://www.netlify.com/blog/2021/12/11/serverless-functions-made-simple-just-add-files/)**
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f15f03f9-55d8-4adc-97d5-f6e085141610/deploy-status)](https://app.netlify.com/sites/example-hello-world-function/deploys)
 
 
